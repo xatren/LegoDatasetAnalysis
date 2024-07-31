@@ -41,6 +41,6 @@ The project uses two main datasets:
 Clone the repository and install the required packages:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/xatren/LegoDatasetAnalysis>
 cd lego-dataset-analysis
 pip install -r requirements.txt
